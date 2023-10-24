@@ -43,3 +43,4 @@
 Документація з використання Git розміщена за [посиланням](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 Виконав: ***Дубницький Іван***
+e-mail:ipz235_dio@student.ztu.edu.ua
